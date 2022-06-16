@@ -4,5 +4,7 @@ Breast cancer has become one of the most common diseases among women that lead t
 
 ![](/Breast_cancer_jupyter.png)
 
+In this ML model, breast cancer data was taken from the UCI respository, which were produced by the Wisconsin Hospitals. Different method of model were deployed to analyze the accuracy of each technique. 
+
 Machine Learning Technique included:
 Decision Tree, Random Forest, Logistic Regression 
